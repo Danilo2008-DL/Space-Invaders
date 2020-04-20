@@ -26,13 +26,13 @@ while janela_aberta :
         x -= velocidade
     if comandos[pygame.K_RIGHT]:
         x += velocidade
-
+    janela.fill((0,0,0))
 
 
     janela.blit(fundo,(0,0))
     janela.blit(nave, (x,y))
 
-    pygame.draw.circle(janela,(0,255,0),(x,y),0)
+    pygame.draw.circle(janela,(0,0,0),(x,y),0)
     pygame.display.update()
 
 pygame.quit()
