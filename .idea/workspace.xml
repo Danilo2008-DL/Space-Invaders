@@ -25,6 +25,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -36,9 +43,56 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\danil\Documents\Danilo\Projetos\space-invaders\venv\Scripts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="Jokenpo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="space-invaders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/Jokenpo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="space-invaders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="space-invaders" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,9 +114,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="s" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="space-invaders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="space-invaders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.run" />
+        <item itemvalue="Python.s" />
+        <item itemvalue="Python.gg" />
+        <item itemvalue="Python.tt" />
+        <item itemvalue="Python.Jokenpo" />
       </list>
     </recent_temporary>
   </component>
@@ -89,27 +189,56 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="568" y="232" key="#Notifications" timestamp="1587422017400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="568" y="232" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1587422017400" />
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587420771148">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1587420771148" />
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1587421113907">
+    <state x="434" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587434565868">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587421113907" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1587421113906">
+    <state x="434" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1587434565868" />
+    <state x="391" y="0" key="#run" timestamp="1587439669646">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587421113906" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1587421113906">
+    <state x="391" y="0" key="#run/0.0.1366.738@0.0.1366.738" timestamp="1587439669646" />
+    <state width="1328" height="146" key="GridCell.Tab.0.bottom" timestamp="1587439927351">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587421113906" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1587421113906">
+    <state width="1328" height="146" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587439927351" />
+    <state width="1328" height="146" key="GridCell.Tab.0.center" timestamp="1587439927350">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587421113906" />
+    <state width="1328" height="146" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587439927350" />
+    <state width="1328" height="146" key="GridCell.Tab.0.left" timestamp="1587439927350">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="146" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587439927350" />
+    <state width="1328" height="146" key="GridCell.Tab.0.right" timestamp="1587439927350">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="146" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587439927350" />
+    <state width="1328" height="224" key="GridCell.Tab.1.bottom" timestamp="1587433759696">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587433759696" />
+    <state width="1328" height="224" key="GridCell.Tab.1.center" timestamp="1587433759696">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1587433759696" />
+    <state width="1328" height="224" key="GridCell.Tab.1.left" timestamp="1587433759696">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1587433759696" />
+    <state width="1328" height="224" key="GridCell.Tab.1.right" timestamp="1587433759696">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1328" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1587433759696" />
   </component>
 </project>
