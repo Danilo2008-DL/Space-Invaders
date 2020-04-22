@@ -1,10 +1,15 @@
 import pygame
+from random import randint
 pygame.init()
 x = 400
 y = 300
+pos_x = 200
+pos_y = 800
 velocidade = 35
-fundo = pygame.image.load("images/Mapa do jogo.png")
+velocidade_outros = 5
+fundo = pygame.image.load("images/Mapa.1.gif")
 nave = pygame.image.load("images/battleship.png")
+enemy = pygame.image.load("images/enemy.png")
 
 
 janela = pygame.display.set_mode((800,600))
@@ -29,25 +34,15 @@ while janela_aberta :
         x += velocidade
     janela.fill((0,0,0))
 
+    if (pos_y <= -200):
+        pos_y = 600
+
+    pos_y -= velocidade_outros
+
     janela.blit(fundo,(0,0))
-    janela.blit(nave, (x,y))
-
-    pygame.draw.circle(janela,(0,0,0),(x,y),0)
+    janela.blit(nave, (x + 0,y))
+    janela.blit(enemy, (pos_x + 160,pos_y))
     pygame.display.update()
-
-    def __init__(self, x, y):
-        auto. x = x
-        auto. y = y
-        auto. d = 10
-        auto. velocidade = -5
-
-    def draw(self):
-        pygame. desenhar. elipse(display, laranja,(self. x, eu. y, self. d, self. d))
-
-    def move(self):
-        auto. y += self. velocidade
-
-
 
 pygame.quit()
 
