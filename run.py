@@ -1,12 +1,11 @@
 import pygame
-from random import randint
 pygame.init()
 x = 400
 y = 300
 pos_x = 200
 pos_y = 800
 velocidade = 35
-velocidade_outros = 5
+velocidade_outros = 15
 fundo = pygame.image.load("images/Mapa.1.gif")
 nave = pygame.image.load("images/battleship.png")
 enemy = pygame.image.load("images/enemy.png")
@@ -42,6 +41,7 @@ while janela_aberta :
     janela.blit(fundo,(0,0))
     janela.blit(nave, (x + 0,y))
     janela.blit(enemy, (pos_x + 160,pos_y))
+    pygame.draw.circle(janela,(0,0,0),(x,y),0)
     pygame.display.update()
 
 pygame.quit()

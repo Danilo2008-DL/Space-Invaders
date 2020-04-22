@@ -28,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -41,6 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts" />
@@ -50,8 +52,71 @@
       <recent name="C:\Users\danil\Documents\Danilo\Projetos\space-invaders\venv\Scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="gg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Game (1)">
+    <configuration name="Game (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="space-invaders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Snake.Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="space-invaders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Scripts/Snake.Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Space Invaders (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="space-invaders" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Space Invaders.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Space Invaders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="space-invaders" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gg.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\danil\Documents\Danilo\Projetos\space-invaders\Space Invaders" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,76 +158,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="space-invaders" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="space-invaders" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="space-invaders" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Game (1)" />
         <item itemvalue="Python.run" />
-        <item itemvalue="Python.teste" />
-        <item itemvalue="Python.s" />
-        <item itemvalue="Python.gg" />
-        <item itemvalue="Python.tt" />
+        <item itemvalue="Python.Space Invaders (1)" />
+        <item itemvalue="Python.Space Invaders" />
+        <item itemvalue="Python.Snake.Game" />
       </list>
     </recent_temporary>
   </component>
@@ -196,10 +198,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="568" y="232" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1587422017400" />
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587420771148">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587514807723">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1587420771148" />
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1587514807723" />
     <state x="434" y="178" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587434565868">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -208,38 +210,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="391" y="0" key="#run/0.0.1366.738@0.0.1366.738" timestamp="1587439669646" />
-    <state width="1328" height="199" key="GridCell.Tab.0.bottom" timestamp="1587514449268">
+    <state width="1328" height="215" key="GridCell.Tab.0.bottom" timestamp="1587516900512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="199" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587514449268" />
-    <state width="1328" height="199" key="GridCell.Tab.0.center" timestamp="1587514449267">
+    <state width="1328" height="215" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587516900512" />
+    <state width="1328" height="215" key="GridCell.Tab.0.center" timestamp="1587516900512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="199" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587514449267" />
-    <state width="1328" height="199" key="GridCell.Tab.0.left" timestamp="1587514449267">
+    <state width="1328" height="215" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1587516900512" />
+    <state width="1328" height="215" key="GridCell.Tab.0.left" timestamp="1587516900511">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="199" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587514449267" />
-    <state width="1328" height="199" key="GridCell.Tab.0.right" timestamp="1587514449267">
+    <state width="1328" height="215" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1587516900511" />
+    <state width="1328" height="215" key="GridCell.Tab.0.right" timestamp="1587516900512">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="199" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587514449267" />
-    <state width="1328" height="224" key="GridCell.Tab.1.bottom" timestamp="1587510466842">
+    <state width="1328" height="215" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1587516900512" />
+    <state width="1328" height="224" key="GridCell.Tab.1.bottom" timestamp="1587516059929">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587510466842" />
-    <state width="1328" height="224" key="GridCell.Tab.1.center" timestamp="1587510466842">
+    <state width="1328" height="224" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1587516059929" />
+    <state width="1328" height="224" key="GridCell.Tab.1.center" timestamp="1587516059928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1587510466842" />
-    <state width="1328" height="224" key="GridCell.Tab.1.left" timestamp="1587510466841">
+    <state width="1328" height="224" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1587516059928" />
+    <state width="1328" height="224" key="GridCell.Tab.1.left" timestamp="1587516059928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1587510466841" />
-    <state width="1328" height="224" key="GridCell.Tab.1.right" timestamp="1587510466842">
+    <state width="1328" height="224" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1587516059928" />
+    <state width="1328" height="224" key="GridCell.Tab.1.right" timestamp="1587516059928">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1328" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1587510466842" />
+    <state width="1328" height="224" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1587516059928" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
